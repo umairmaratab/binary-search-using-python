@@ -7,6 +7,7 @@ It asks the root that is element = root, if yes return it's index, if != and ele
 
 ## Difference b/w Naive Search and Binary Search
 **Naive Search** scans entire list and ask if it's equal to target if yes return index, if no return -1
+
 **Binary Search** divides list into half on each recursive call and so we get huge speed boost.
 
 
